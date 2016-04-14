@@ -1,3 +1,3 @@
 # gitskills
-- [ ]Adding a checkbox.
+- [ ] Adding a checkbox.
 - [x] May be one more.
