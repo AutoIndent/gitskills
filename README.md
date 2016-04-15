@@ -1,3 +1,4 @@
 # gitskills
 - [ ] Adding a checkbox.
-- [x] May be one more.
+- [x] Maybe one more.
+- [x] One last one.
